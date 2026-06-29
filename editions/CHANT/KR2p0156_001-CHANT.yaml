@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0156/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一君子如欲求人道必由六位以任六職以依六德夫六位六職六德大者以治人民小者以修其身為道者必由苟不由其道雖堯求之弗得也生民斯必有夫婦父子君臣此六位也有率人者有從人者有使人者有事人者有教者有受者此六職也既有夫六位也以任此六職也六職既分以別六德六德者此何謂六德聖智也仁義也忠信也聖與智就矣仁與義就矣忠與信就矣作禮樂制刑法教此民黎使之有向也非聖智者莫之能也親父子和大臣寢四鄰之抵牾非仁義者莫之能也聚人民任土地足此民黎生死之用非忠信者莫之能也君子不變如道道人之
+  hash: sha256:aa8be8124d46efa24cc99706fae85de081d6eb34155321a68a6345b59bc6282a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0156_CHANT_001-1a.1-h}
+metadata:
+  title: 六德
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0156.xml
+hash: sha256:325db2437adc9e376caf9101ff2eab5633e15afe0cd31e0614b2e645b0694044

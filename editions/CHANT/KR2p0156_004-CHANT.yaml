@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0156/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四男女辨生言父子親生言君臣義生言父聖子仁夫智婦信君義臣忠聖生仁智率信義使忠故夫夫婦婦父父子子君君臣臣此六者各行其職而訕誇蔑由作也君子言信言尔言煬言尔設外內皆得也其反夫不夫婦不婦父不父子不子君不君臣不臣昏所由作也君子不啻明乎民微而已或以知其一矣男女不辨父子不親父子不親君臣亡義是故先王之教民也始於孝弟君子於此一體者亡所法是故先王之教民也不使此民也憂其身失其體孝本也下修其本可以斷訕生民斯必有夫婦父子君臣君子明乎此六者然後可以斷訕道不可體也能守一曲焉可以諱其惡是以其斷訕速
+  hash: sha256:d9275a0299c32fe4a065e7d14eea8414558d7c38643d814de38afbf7a3e4ed3b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0156_CHANT_004-1a.1-h}
+metadata:
+  title: 六德
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0156.xml
+hash: sha256:9c305eadf7f643c7ea2e14b38324d6e2d110c89bfe2c6e4809cd34afe4e52743

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0156/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五凡君子所以立身大法三其繹之也六其衍十又二三者通言行皆通三者不通非言行也三者皆通然後是也三者君子所生與之立死與之敝也
+  hash: sha256:bc1e7cbc2936b89ec59251cd03da88530e2dfc726e8ee2f5e8e013c8aa114619
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0156_CHANT_005-1a.1-h}
+metadata:
+  title: 六德
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0156.xml
+hash: sha256:3a471516e7cf49e85628fa9cd1e728b0a8fe67e1ab8a72883384a6d90a6571b8
